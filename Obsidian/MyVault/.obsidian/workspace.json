@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c71d9314c9cb32f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eade4d59a0cc2810",
             "type": "leaf",
             "pinned": true,
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "8219269a94b075fd",
+            "id": "d70f30702d89feef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tutorial.md",
+                "file": "Others/tutorial.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tutorial.md",
+                "file": "Others/tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tutorial.md",
+                "file": "Others/tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tutorial.md"
+                "file": "Others/tutorial.md"
               }
             }
           },
@@ -189,9 +177,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8219269a94b075fd",
+  "active": "d70f30702d89feef",
   "lastOpenFiles": [
+    "DailyNotes/2023-12th-01.md",
+    "DailyNotes/2023-12th-14.md",
+    "template/template.md",
+    "DailyNotes/2023-12th-27.md",
     "tutorial.md",
+    "Others/tutorial.md",
+    "Others",
+    "untitled folder",
+    "template",
+    "DailyNotes",
     "2023-12-27.md",
     "2023-12-14.md",
     "2023-12-01.md"
