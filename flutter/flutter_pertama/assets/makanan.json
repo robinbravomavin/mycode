@@ -1,0 +1,31 @@
+{
+    "makananMenu": [
+{
+            "name": "Spagheti Carbonara",
+            "imageURL": "https://images.pexels.com/photos/9796/car-refill-transportation-transport.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "stock": 40,
+            "price": 89000
+        },
+    {
+            "name": "Aglio Olio",
+            "imageURL": "https://images.pexels.com/photos/2374794/pexels-photo-2374794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "stock":40,
+            "price": 49000
+        },
+        {
+            "name": "Fetuccini Carbonara",
+            "imageURL": "https://images.pexels.com/photos/2374794/pexels-photo-2374794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "stock":40,
+            "price": 99000
+        },
+        {
+            "name": "Risotto with Mushroom",
+            "imageURL": "https://images.pexels.com/photos/2374794/pexels-photo-2374794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "stock":40,
+            "price": 109000
+        }
+       
+       
+       
+    ]
+}
