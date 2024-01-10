@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d70f30702d89feef",
+            "id": "56c58f1efbf47db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,14 +177,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d70f30702d89feef",
+  "active": "56c58f1efbf47db4",
   "lastOpenFiles": [
+    "Others/tutorial copy.md",
+    "Others/tutorial.md",
     "DailyNotes/2023-12th-01.md",
     "DailyNotes/2023-12th-14.md",
     "template/template.md",
     "DailyNotes/2023-12th-27.md",
     "tutorial.md",
-    "Others/tutorial.md",
     "Others",
     "untitled folder",
     "template",
